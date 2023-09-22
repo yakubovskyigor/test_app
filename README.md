@@ -8,7 +8,7 @@ It is the wep application, that implement RESTful API endpoints for user registr
 You can install this app on your working machine from source code:
 ```bash
 # Step -- 1.
-git clone --depth=1 --branch=main 'https://github.com/yakubovskyigor/rmlib.git'
+git clone --depth=1 --branch=main 'https://github.com/yakubovskyigor/test_app.git'
 
 # Step -- 2.
 cd ./test_app/
